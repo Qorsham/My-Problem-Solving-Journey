@@ -1,5 +1,6 @@
 #include <iostream>
-int main() {
+int main() 
+{
   std::string str,out;std::cin>>str;
   for(int i=0;i<str.size();i++)
   {

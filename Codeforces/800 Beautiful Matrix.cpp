@@ -15,4 +15,3 @@ int main()
 	}
 	std::cout<<std::abs(x-2)+std::abs(y-2);
 }
-

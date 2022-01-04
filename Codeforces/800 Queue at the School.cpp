@@ -1,5 +1,4 @@
 #include <iostream>
-#include <cstdlib>
 int main() 
 {
 	int x,y;std::cin>>x>>y;
@@ -16,8 +15,5 @@ int main()
 		}
 	}
 	std::cout<<str;
- 
- 
-	
 }
 

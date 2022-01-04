@@ -15,10 +15,6 @@ int main() {
 			std::cout<<x;
 			break;
 		}
-		else x++;
-		
+		else x++;	
 	}
-	
-	
-	
 }
