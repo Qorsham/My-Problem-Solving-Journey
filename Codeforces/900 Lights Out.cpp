@@ -1,5 +1,4 @@
 #include <iostream>
-
 int main() 
 {
 	int a[3][3];
@@ -48,4 +47,3 @@ int main()
 		std::cout<<std::endl;
 	}
 }
-
