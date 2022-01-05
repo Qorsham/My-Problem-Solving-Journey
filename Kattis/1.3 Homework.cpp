@@ -79,8 +79,7 @@ int main() {
 					{
 						std::string substr;
 						getline(ss, substr, '-');
-						strx1[i]=substr;
-						
+						strx1[i]=substr;	
 					}
 					if(ss.good()==1)
 					{
@@ -88,7 +87,6 @@ int main() {
 						getline(ss, substr, '-');
 						strx2[i]=substr;
 					}
-					
 				}
 			}
 			int numx[howmanystr];
@@ -132,8 +130,7 @@ int main() {
 					{
 						std::string substr;
 						getline(ss, substr, '-');
-						x=substr;
-						
+						x=substr;				
 					}
 					if(ss.good()==1)
 					{
