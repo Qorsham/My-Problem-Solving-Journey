@@ -10,7 +10,7 @@ int main()
 		int x;std::cin>>str;
 		std::string str1 = str.substr(0,str.size()-1);
 		std::stringstream ss(str1);
-	    ss >> x;
+		ss >> x;
 		char str2 = str[str.size()-1];
 		out+=pow(x,(int)str2-48);
 	}
